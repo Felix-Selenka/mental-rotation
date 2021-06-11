@@ -3,7 +3,7 @@
 
 const practice_trials = [
     {
-        picture: "images/13_50_different.jpg.",
+        picture: "images/13_50_different.jpg",
         item: 13,
         question: "Are these blocks the same?",
         expected: "different",
@@ -14,9 +14,9 @@ const practice_trials = [
         rotation_deg: 50
     },
     {
-        picture: "images/13_50_same.jpg.",
+        picture: "images/13_50_same.jpg",
         item: 13,
-        question: "Are these blocks the same ?",
+        question: "Are these blocks the same?",
         expected: "same",
         key1: "f",
         key2: "j",
@@ -25,7 +25,7 @@ const practice_trials = [
         rotation_deg: 50
     },
     {
-        picture: "images/13_150_different.jpg.",
+        picture: "images/13_150_different.jpg",
         item: 13,
         question: "Are these blocks the same?",
         expected: "different",
@@ -36,7 +36,7 @@ const practice_trials = [
         rotation_deg: 150
     },
     {
-        picture: "images/13_150_same.jpg.",
+        picture: "images/13_150_same.jpg",
         item: 13,
         question: "Are these blocks the same?",
         expected: "same",
@@ -47,7 +47,7 @@ const practice_trials = [
         rotation_deg: 150
     },
     {
-        picture: "images/14_50_different.jpg.",
+        picture: "images/14_50_different.jpg",
         item: 14,
         question: "Are these blocks the same?",
         expected: "different",
@@ -58,7 +58,7 @@ const practice_trials = [
         rotation_deg: 50
     },
     {
-        picture: "images/14_50_same.jpg.",
+        picture: "images/14_50_same.jpg",
         item: 14,
         question: "Are these blocks the same?",
         expected: "same",
