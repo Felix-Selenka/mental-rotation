@@ -4,6 +4,17 @@
 const practice_trials = [
     {
         question: "Are these blocks the same?",
+        picture: "images/13_50_different.jpg.",
+        expected: "different",
+        key1: "f",
+        key2: "j",
+        f: "different",
+        j: "same",
+        item: 13,
+        rotation_deg: "50"
+    },
+    {
+        question: "Are these blocks the same?",
         picture: "images/13_50_same.jpg.",
         expected: "same",
         key1: "f",

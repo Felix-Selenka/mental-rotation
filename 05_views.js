@@ -127,7 +127,7 @@ const practice_trials_view = magpieViews.view_generator("key_press", {
     // name should be identical to the variable name
     name: 'practice_trials',
     pause: 250,
-    data: _.shuffle(practice_trials),
+    data: practice_trials//_.shuffle(practice_trials),
 });
 
 // There are many more templates available:
